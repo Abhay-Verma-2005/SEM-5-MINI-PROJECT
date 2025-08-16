@@ -1,7 +1,3 @@
-# 🚀 Mood Connect App
-> *Team Tech Crusaders*
-
-```bash
 🎯 Project Title : Real-Time Social Connect App
 📌 Core Idea    : Smart Map + ML → Connect nearby people (1km) 
 💡 Problem      : Social apps connect globally but fail locally
@@ -47,4 +43,6 @@ Edit
 bash
 Copy
 Edit
-🔥 Mood Connect = Real-time vibes + Smart ML + Crazy UX
+🔥 Mood Connect = Real-time vibes + Smart ML + Crazy UX 
+
+make this into github readme.md with crazy gifs of coding and looks very nice
