@@ -32,14 +32,6 @@ Mood-based, activity-driven, **secure connections** that bring people together l
 
 ---
 
-## 🎥 Demo / GIFs
-
-| Feature | Demo |
-|---------|------|
-| Landing Page | ![Landing GIF](link1) |
-| Smart Map Notes | ![Map GIF](link2) |
-| Friend Recommendation | ![Reco GIF](link3) |
-| Secure Chat & Story | ![Chat GIF](link4) |
 
 > 💻 *Pro Tip:* Check out our **crazy coding animations** below!  
 > ![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
