@@ -66,6 +66,7 @@ MONGODB_URI=your_mongodb_connection
 JWT_SECRET=your_jwt_secret
 ```
 
+
 ---
 
 ## 📅 Development Progress
